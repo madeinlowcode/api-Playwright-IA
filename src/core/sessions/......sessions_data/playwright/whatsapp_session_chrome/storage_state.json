@@ -1,0 +1,315 @@
+{
+  "cookies": [
+    {
+      "name": "wa_ul",
+      "value": "c7584c1f-58a4-4edd-ba02-da49840aaf7e",
+      "domain": ".web.whatsapp.com",
+      "path": "/",
+      "expires": 1758145299.919568,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wa_web_lang_pref",
+      "value": "pt_BR",
+      "domain": ".web.whatsapp.com",
+      "path": "/",
+      "expires": 1752788535,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://web.whatsapp.com",
+      "localStorage": [
+        {
+          "name": "hour-24-from-phone",
+          "value": "true"
+        },
+        {
+          "name": "MdHistoryLastChunkProcessed",
+          "value": "\"3_1\""
+        },
+        {
+          "name": "WAUnarchiveChatsSetting",
+          "value": "false"
+        },
+        {
+          "name": "4OQTRyuxLL6H7VO+eY/Quw==",
+          "value": "[{\"id\":\"1750369328686\",\"startTime\":1750369328686,\"pttCancelBroadcast\":0,\"pttCancelGroup\":0,\"pttCancelIndividual\":0,\"pttCancelNewsletter\":0,\"pttDraftReviewBroadcast\":0,\"pttDraftReviewGroup\":0,\"pttDraftReviewIndividual\":0,\"pttDraftReviewNewsletter\":0,\"pttFastplaybackBroadcast\":0,\"pttFastplaybackGroup\":0,\"pttFastplaybackIndividual\":0,\"pttFastplaybackNewsletter\":0,\"pttLockBroadcast\":0,\"pttLockGroup\":0,\"pttLockIndividual\":0,\"pttLockNewsletter\":0,\"pttPlaybackBroadcast\":0,\"pttPlaybackGroup\":0,\"pttPlaybackIndividual\":0,\"pttPlaybackNewsletter\":0,\"pttRecordBroadcast\":0,\"pttRecordGroup\":0,\"pttRecordIndividual\":0,\"pttRecordNewsletter\":0,\"pttSendBroadcast\":0,\"pttSendGroup\":0,\"pttSendIndividual\":0,\"pttSendNewsletter\":0,\"pttPausedRecordBroadcast\":0,\"pttPausedRecordGroup\":0,\"pttPausedRecordIndividual\":0,\"pttPausedRecordNewsletter\":0,\"pttOutOfChatBroadcast\":0,\"pttOutOfChatGroup\":0,\"pttOutOfChatIndividual\":0,\"pttOutOfChatNewsletter\":0,\"goldenBoxContactNarrativeAppearCount\":0,\"goldenBoxContactDialogAppearCount\":0,\"goldenBoxContactDialogSelectCount\":0,\"goldenBoxGroupNarrativeAppearCount\":0,\"goldenBoxGroupDialogAppearCount\":0,\"goldenBoxGroupDialogSelectCount\":0,\"infoScreenContactNarrativeAppearCount\":0,\"infoScreenContactDialogAppearCount\":0,\"infoScreenContactDialogSelectCount\":0,\"infoScreenGroupNarrativeAppearCount\":0,\"infoScreenGroupDialogAppearCount\":0,\"infoScreenGroupDialogSelectCount\":0,\"chatsListNarrativeAppearCount\":0,\"chatsListDialogAppearCount\":0,\"chatsListDialogSelectCount\":0,\"statusListNarrativeAppearCount\":0,\"statusListDialogAppearCount\":0,\"statusListDialogSelectCount\":0,\"callingScreenAudioNarrativeAppearCount\":0,\"callingScreenAudioDialogAppearCount\":0,\"callingScreenAudioDialogSelectCount\":0,\"prinaLastEvent\":0,\"communityTabGroupNavigations\":0,\"communityTabToHomeViews\":0,\"communityTabViews\":0,\"communityTabViewsViaContextMenu\":0,\"communityNoActionTabViews\":0,\"communityHome\":{},\"pnhCagActions\":{},\"animatedEmojiSend\":0,\"singleEmojiSend\":0,\"emojiReply\":0,\"kicGroupNotificationTaps\":0,\"kicGroupNotifications\":0,\"kicNotificationTaps\":0,\"kicNotifications\":0,\"chatLockFolderChatsCount\":0,\"chatLockFolderOpenCount\":0,\"chatLockLockFolderHidden\":false,\"chatLockNewAddChatCount\":0,\"chatLockNewRemoveChatCount\":0,\"chatLockSecretCodeActive\":false}]"
+        },
+        {
+          "name": "ChatThreadLoggingSecret",
+          "value": "\"XwVaUv5cuekaPlxDHxwFJVed8r9uOrUjn6EVveQO8qU=\""
+        },
+        {
+          "name": "WAPrimaryFeatures",
+          "value": "[\"ddm_settings\",\"favorite_sticker\",\"link_preview\",\"poll_creation_group\",\"poll_creation_on_one_one\",\"poll_creation_cag\",\"newsletter\",\"external_web_beta_opt_in\",\"link_preview_hq_thumbnail\",\"history_sync_on_demand\",\"post_status_in_companion\",\"primary_favorites_sync_support\",\"primary_campaign_id_in_history_sync_support\",\"companion_biz_quick_reply_sync_support\",\"companion_biz_label_sync_support\",\"payment_info_sync_support\",\"custom_payment_methods_sync_support\",\"profile_edit_for_mv_users_enabled\",\"reactions_send\",\"vo_sp_receiver\",\"disable_link_previews\"]"
+        },
+        {
+          "name": "VgoukP5vV5FLKwqQPl1aaA==",
+          "value": "{\"views\":0}"
+        },
+        {
+          "name": "WAMms4Conn",
+          "value": "{\"queryStartTime\":\"2025-06-19T21:42:11.715Z\",\"auth\":\"Ac3QWsYKI2goxszTDsmqzJ5Yd7tTGfZYiJ0geEHpXYgxEw\",\"hosts\":[{\"hostname\":\"media.fbsb24-1.fna.whatsapp.net\",\"class\":\"fna\",\"ips\":[{\"ip4\":\"177.66.166.164\",\"ip6\":\"2804:8aa4:3031:1:face:b00c:3333:7020\"}],\"fallback\":{\"hostname\":\"media.fbsb29-1.fna.whatsapp.net\",\"class\":\"fna\",\"ips\":[{\"ip4\":\"45.4.43.100\",\"ip6\":\"2804:8aa4:281c:4:face:b00c:3333:7020\"}]},\"type\":\"primary\",\"rules\":[{\"download\":[\"video\",\"image\",\"gif\",\"sticker\",\"newsletter-image\",\"newsletter-video\",\"newsletter-thumbnail-link\",\"newsletter-sticker\",\"newsletter-document\",\"newsletter-gif\",\"newsletter-ptt\",\"newsletter-audio\",\"thumbnail-image\",\"thumbnail-video\"]},{\"downloadBuckets\":[\"0\"]}]},{\"hostname\":\"media-gru2-1.cdn.whatsapp.net\",\"class\":\"pop\",\"ips\":[{\"ip4\":\"31.13.85.51\",\"ip6\":\"2a03:2880:f205:c5:face:b00c:0:167\"}],\"fallback\":{\"hostname\":\"media-bsb1-1.cdn.whatsapp.net\",\"class\":\"pop\",\"ips\":[{\"ip4\":\"57.144.137.32\",\"ip6\":\"2a03:2880:f344:120:face:b00c:0:167\"}]},\"type\":\"primary\",\"rules\":[{\"download\":[\"ppic\",\"md-app-state\",\"thumbnail-document\",\"biz-cover-photo\",\"ptt\",\"audio\",\"document\",\"thumbnail-link\",\"md-msg-hist\"]},{\"upload\":[\"image\",\"sticker\",\"ptt\",\"audio\",\"document\",\"video\",\"gif\",\"ppic\",\"md-app-state\",\"md-msg-hist\",\"template\",\"thumbnail-image\",\"thumbnail-video\",\"thumbnail-document\",\"thumbnail-link\",\"payment-bg-image\",\"product\",\"product-catalog-image\",\"biz-cover-photo\",\"preview\",\"newsletter-audio\",\"newsletter-document\",\"newsletter-image\",\"newsletter-gif\",\"newsletter-ptt\",\"newsletter-sticker\",\"newsletter-thumbnail-link\",\"newsletter-video\",\"sticker-pack\",\"thumbnail-sticker-pack\",\"music-artwork\"]},{\"downloadBuckets\":[\"0\"]}]},{\"hostname\":\"mmg.whatsapp.net\",\"class\":\"pop\",\"ips\":[{}],\"type\":\"fallback\",\"rules\":[{\"download\":[\"image\",\"sticker\",\"ptt\",\"audio\",\"document\",\"video\",\"gif\",\"ppic\",\"md-app-state\",\"md-msg-hist\",\"template\",\"thumbnail-image\",\"thumbnail-video\",\"thumbnail-document\",\"thumbnail-link\",\"payment-bg-image\",\"product\",\"product-catalog-image\",\"biz-cover-photo\",\"preview\",\"newsletter-audio\",\"newsletter-document\",\"newsletter-image\",\"newsletter-gif\",\"newsletter-ptt\",\"newsletter-sticker\",\"newsletter-thumbnail-link\",\"newsletter-video\",\"sticker-pack\",\"thumbnail-sticker-pack\",\"music-artwork\"]},{\"upload\":[\"image\",\"sticker\",\"ptt\",\"audio\",\"document\",\"video\",\"gif\",\"ppic\",\"md-app-state\",\"md-msg-hist\",\"template\",\"thumbnail-image\",\"thumbnail-video\",\"thumbnail-document\",\"thumbnail-link\",\"payment-bg-image\",\"product\",\"product-catalog-image\",\"biz-cover-photo\",\"preview\",\"newsletter-audio\",\"newsletter-document\",\"newsletter-image\",\"newsletter-gif\",\"newsletter-ptt\",\"newsletter-sticker\",\"newsletter-thumbnail-link\",\"newsletter-video\",\"sticker-pack\",\"thumbnail-sticker-pack\",\"music-artwork\"]}]}],\"ttl\":302000,\"maxBuckets\":12,\"authTTL\":21602000}"
+        },
+        {
+          "name": "WAHistorySyncStatus",
+          "value": "{\"initialCompleted\":true,\"recentCompleted\":true}"
+        },
+        {
+          "name": "WAWebTimeSpentSession",
+          "value": "{\"id\":1388913163,\"startTimestampMs\":1750369334122,\"lastActivityTimestampMs\":1750369395006,\"cumulativeBitsSet\":7,\"sequenceId\":0,\"relativeTimestampMs\":64015,\"tsTimestampMs\":1750369399138,\"unifiedSessionId\":\"337335302\"}"
+        },
+        {
+          "name": "WABlocklistHash",
+          "value": "\"1741464748935676\""
+        },
+        {
+          "name": "q7Zie2OIzH8yipWHp1IsHA==",
+          "value": "0"
+        },
+        {
+          "name": "F3DonObKQZHUyvQ+GCRgBg==",
+          "value": "\"NOT_ACCEPTED\""
+        },
+        {
+          "name": "AbpropsWebRefreshId",
+          "value": "4"
+        },
+        {
+          "name": "WANewslettersWasBootstrapped",
+          "value": "true"
+        },
+        {
+          "name": "critical_data_synced",
+          "value": "true"
+        },
+        {
+          "name": "z9ROBDLfL4HJFj6zEkoPcg==",
+          "value": "false"
+        },
+        {
+          "name": "aWbet3aZXjWsQgeBpauuJw==",
+          "value": "\"EAAJUt3pvanABO6EpUGE31KFZCfOUnDW7GTV0whP2b1lBaBHaBnVrNVLySbVbLgL6klzwUMrOqSmHj0NbjQizovfqL3FVtwNhGrWdpJUYrqIoiUynvbCquOLidqywJW6NvQZAs8IgTyy5DfIxzqecyOZAlh1pjbJpin1QSh5yHylYzB2btynKxpuD1cENDqw7wZDZD\""
+        },
+        {
+          "name": "ZpY0HfaSuoEHLa+SJ2fjNw==",
+          "value": "{\"ts\":1750369335,\"value\":\"rt1stbRlQBSmtLujTBAm6w==\"}"
+        },
+        {
+          "name": "WANoiseInfoIv",
+          "value": "[\"RuM9lpCxPi8b/yPWdBNzDQ==\",\"sG+CZhMRFhPkrqf1ZbUf8g==\",\"WhOOQk/FDNH4Gz5xpeACqA==\",\"l+PrLDIUwsSagmWeIRnm9w==\"]"
+        },
+        {
+          "name": "pagIV8urLwVpkNlI5RLfvQ==",
+          "value": "\"{}\""
+        },
+        {
+          "name": "ChatThreadLoggingOffset",
+          "value": "77007"
+        },
+        {
+          "name": "MutexBlockStrategy",
+          "value": "0"
+        },
+        {
+          "name": "BusinessProfileLidTableMigrationComplete",
+          "value": "true"
+        },
+        {
+          "name": "WAShouldCheckContactSyncStatus",
+          "value": "true"
+        },
+        {
+          "name": "WAArchiveV2EnabledSetting",
+          "value": "true"
+        },
+        {
+          "name": "NvjM44rSYxSU9KTSG6bv9w==",
+          "value": "1750455757583"
+        },
+        {
+          "name": "thT98Hu16NuR38iWlmvjiQ==",
+          "value": "true"
+        },
+        {
+          "name": "RAPsNC2sXeXLKGDeiC7ZUg==",
+          "value": "false"
+        },
+        {
+          "name": "abprops",
+          "value": "{\"abKey\":\"Qu3,7we,2dR,Si,fn,pL,1yM,1H0,BP,uC,VA,Bo,5R,5W,9,2g,3x,7k\",\"refresh\":\"93143\",\"lastSyncTime\":1750369332433}"
+        },
+        {
+          "name": "WFIQu2tSAnvkshcYc3oUHA==",
+          "value": "false"
+        },
+        {
+          "name": "FZC568k78ZYrxW+WLVgZbg==",
+          "value": "false"
+        },
+        {
+          "name": "Ot5mqDeYS+KDnX258F6JnA==",
+          "value": "true"
+        },
+        {
+          "name": "WebEncKeySalt",
+          "value": "\"Fr5HeH9zHgPRD9HduAybuBjgtwDCTuFFDuJg2P5Vo7WFCiLFVO/KGe3B6gLEZc1e5wB+5ZtinLhC68GTMTyohRQ1X6K67cxL/ZYkhh4sUWA6EcwWI6iQcRkvO7SdM0hOYism4N0dvaLEEtbpDvIiiVkwpEAyxovd62ZPfMH642w=\""
+        },
+        {
+          "name": "whatsapp-mutex",
+          "value": "\"x710077318:init_1750369306127\""
+        },
+        {
+          "name": "2aXLaIIsw88A+h7q3A19cQ==",
+          "value": "false"
+        },
+        {
+          "name": "WANoiseInfo",
+          "value": "{\"privKey\":\"AlVmtXe66koEwKgEoEizcClRk8788dQHcz7xhet0UEa4xZ16oMpAbV1WS4WWejzA\",\"pubKey\":\"kkUPDECsdaJ2mlLQNYOzYXqaPKyFDGpHoeo7bNHyuazD5oQU6lEzfcxyCsAOrUt5\",\"recoveryToken\":\"HIufTO9ll1ZCSpjbfWDKpFMoidJQ+ZFVRh4Thu0cfao=\",\"certificateChainBuffer\":\"BYvGxXWBeWZCJYso6iBokNDBFoYn+rbNbC0+IjOIF7W7aEMj3cuf2Epq64dqVb3fW562Bbm7qDKMzK0impJzX/qi0gKFEvS7VOi4uScuo60a4Ns8E7sF3/uAENEOjkbSKnGJ9/IOjkwcNmtM7TTBoP/gw4qW0X/TDL5HjytDiB3cTdfzppnaDqdbhB9Mpix1YSwVwufwqCPEkAhYXBw04XxXjYdfwl5LprzkA5JwFoLF8XCgJkfD9xtdNbjLvsyMHXZaFdQUcvp4UXlsIYEUyeMfKdiKxXNZqPOQnRzbN3E=\"}"
+        },
+        {
+          "name": "lyLO23du1gwXU81nUnHkrg==",
+          "value": "{\"readReceipts\":\"all\",\"profilePicture\":\"all\",\"about\":\"all\",\"online\":\"all\",\"lastSeen\":\"all\",\"groupAdd\":\"all\",\"callAdd\":\"all\",\"messages\":\"all\"}"
+        },
+        {
+          "name": "WebUiRefreshNuxAcknowledged",
+          "value": "true"
+        },
+        {
+          "name": "WAWebEncKeySalt",
+          "value": "\"Fr5HeH9zHgPRD9HduAybuBjgtwDCTuFFDuJg2P5Vo7WFCiLFVO/KGe3B6gLEZc1e5wB+5ZtinLhC68GTMTyohRQ1X6K67cxL/ZYkhh4sUWA6EcwWI6iQcRkvO7SdM0hOYism4N0dvaLEEtbpDvIiiVkwpEAyxovd62ZPfMH642w=\""
+        },
+        {
+          "name": "Session",
+          "value": "6fygej:1750369339273"
+        },
+        {
+          "name": "vUVyTnB2yFcab2ti8o7vSw==",
+          "value": "true"
+        },
+        {
+          "name": "7JPx/7cyP9hvcYXSrSaB9Q==",
+          "value": "\"NOT_ACCEPTED\""
+        },
+        {
+          "name": "WALangPrefDidMismatchWithCookie",
+          "value": "false"
+        },
+        {
+          "name": "WASyncdPrimaryAllowsAllMutations",
+          "value": "true"
+        },
+        {
+          "name": "NnxzYPqXthqVWHNtLMcMFQ==",
+          "value": "false"
+        },
+        {
+          "name": "WADailyStatsStartTime",
+          "value": "1750369328686"
+        },
+        {
+          "name": "WebUiRefreshNuxViewsCount",
+          "value": "2"
+        },
+        {
+          "name": "abprops_needed_early",
+          "value": "{\"web_apply_latest_db_schema_optimization_enabled\":true,\"wa_web_favicons_update_m1\":false,\"web_ui_refresh_m1\":true}"
+        },
+        {
+          "name": "paOnLtXzHjNRTijjV+QPKg==",
+          "value": "\"NOT_ACCEPTED\""
+        },
+        {
+          "name": "o1TBijvYdj0locdoFEFVGw==",
+          "value": "\"What Imagine\""
+        },
+        {
+          "name": "5jLdg8dqtWrcDbRkzbxWaA==",
+          "value": "[{\"id\":\"global_mute\",\"expiration\":0,\"callExpiration\":0,\"isAutoMuted\":false}]"
+        },
+        {
+          "name": "last-wid-md",
+          "value": "\"556195904463:12@c.us\""
+        },
+        {
+          "name": "ntacyUefBefRwAu9iVKnFQ==",
+          "value": "{\"configuration\":{\"whatsapp_smb_status_main_tab_boost_banner\":{\"shouldShow\":true},\"whatsapp_smb_status_main_tab_boost_button\":{\"shouldShow\":true},\"whatsapp_smb_status_playback_screen_boost_icon\":{\"shouldShow\":true},\"whatsapp_smb_status_upsell_sheet\":{\"shouldShow\":true},\"whatsapp_smb_status_preview_boost_menu_item\":{\"shouldShow\":true},\"whatsapp_smb_status_details_boost_menu_item\":{\"shouldShow\":true},\"whatsapp_smb_shared_in_single_chat\":{\"shouldShow\":true},\"whatsapp_smb_shared_in_group\":{\"shouldShow\":true},\"whatsapp_smb_shared_in_broadcast_list\":{\"shouldShow\":true},\"whatsapp_smb_product_details_boost_button\":{\"shouldShow\":true},\"whatsapp_smb_product_details_boost_again_button\":{\"shouldShow\":true},\"whatsapp_smb_catalog_list_boost_button\":{\"shouldShow\":true},\"whatsapp_smb_catalog_list_boost_menu_item\":{\"shouldShow\":true},\"whatsapp_smb_catalog_list_boost_banner\":{\"shouldShow\":true},\"whatsapp_smb_product_upsell_sheet\":{\"shouldShow\":true},\"whatsapp_smb_business_tools_tab_advertise\":{\"shouldShow\":true},\"whatsapp_smb_business_tools_advertise_list_item\":{\"shouldShow\":true},\"whatsapp_smb_settings_advertise_list_item\":{\"shouldShow\":true},\"whatsapp_smb_business_profile\":{\"shouldShow\":true},\"whatsapp_smb_web_ad_creation_home_screen_icon\":{\"shouldShow\":true},\"whatsapp_smb_web_ad_creation_home_menu_item\":{\"shouldShow\":true},\"whatsapp_smb_web_business_tools_list_item\":{\"shouldShow\":true},\"whatsapp_smb_business_tools_manage_ad_list_item\":{\"shouldShow\":true},\"whatsapp_smb_business_tools_tab_manage_ad\":{\"shouldShow\":true},\"whatsapp_smb_home_screen_overflow_manage_ad_item\":{\"shouldShow\":true},\"whatsapp_smb_web_catalog\":{\"shouldShow\":true},\"whatsapp_smb_web_catalog_product\":{\"shouldShow\":true},\"whatsapp_smb_web_business_profile\":{\"shouldShow\":true},\"whatsapp_smb_web_status\":{\"shouldShow\":true},\"whatsapp_smb_archive_status_main_tab_boost\":{\"shouldShow\":true},\"whatsapp_smb_ad_details_recreate_ad_button\":{\"shouldShow\":true},\"whatsapp_smb_catalog_list_advertise_button\":{\"shouldShow\":true}},\"ts\":1750369356,\"locale\":\"pt_PT\"}"
+        },
+        {
+          "name": "/PPfFKvX/ZAAfrZAPtTIHA==",
+          "value": "{\"chatLockSupportLevel\":2}"
+        },
+        {
+          "name": "mutex-ping-timeout",
+          "value": "1"
+        },
+        {
+          "name": "WALangPhonePref",
+          "value": "\"pt-BR\""
+        },
+        {
+          "name": "WARoutingInfo",
+          "value": "{\"domain\":\"fb\",\"edgeRouting\":\"CAIIBQ==\"}"
+        },
+        {
+          "name": "MdRecentMailboxAgeDays",
+          "value": "0"
+        },
+        {
+          "name": "yTNNbhXxKCyAZEwdpFtigA==",
+          "value": "false"
+        },
+        {
+          "name": "HvFZ79310C9IeFAOh2o2zg==",
+          "value": "{\"views\":0}"
+        },
+        {
+          "name": "qefrZLiAJrBxCfLm+bdCJA==",
+          "value": "{\"isDismissed\":false,\"firstSeenTime\":1750369334}"
+        },
+        {
+          "name": "WAUnknownID",
+          "value": "\"unknown-475710665\""
+        },
+        {
+          "name": "WACachedProfilePicEURL",
+          "value": "\"https://pps.whatsapp.net/v/t61.24694-24/491875635_719567047157512_527353956010205600_n.jpg?ccb=11-4&oh=01_Q5Aa1wEEWDoUsW-rhouYwOtzOXoKKWzXHLI9uKzZSp8y_mffYQ&oe=68617C35&_nc_sid=5e03e0&_nc_cat=109\""
+        },
+        {
+          "name": "ChatThreadLoggingLastUploadedStartTs",
+          "value": "0"
+        },
+        {
+          "name": "WALid",
+          "value": "\"97066495811633:12@lid\""
+        },
+        {
+          "name": "MdSyncActionsActionSanitized",
+          "value": "true"
+        },
+        {
+          "name": "WAWebWAMBeaconingSettings",
+          "value": "\"[{\\\"key\\\":\\\"regular\\\",\\\"ts\\\":1750369316,\\\"value\\\":null},{\\\"key\\\":\\\"realtime\\\",\\\"ts\\\":1750369339,\\\"value\\\":null}]\""
+        },
+        {
+          "name": "MdPairingTimestamp",
+          "value": "1750369328"
+        },
+        {
+          "name": "abprops-refresh-id",
+          "value": "10"
+        },
+        {
+          "name": "WaInitialHistorySynced",
+          "value": "\"true\""
+        }
+      ]
+    }
+  ]
+}

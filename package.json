@@ -1,0 +1,26 @@
+{
+  "name": "api-playwright-puppeteer-tasks",
+  "version": "1.0.0",
+  "description": "API para executar tarefas com Playwright e Puppeteer.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "api",
+    "playwright",
+    "puppeteer",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "playwright": "^1.53.1",
+    "puppeteer": "^24.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
