@@ -1,4 +1,4 @@
-# API de Automação de Navegador com Playwright e Puppeteer
+# API de Automação de Navegador com Playwright
 
 ## Visão Geral
 
